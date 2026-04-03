@@ -1,12 +1,12 @@
+# 🎶 Dreama Music - v1.0.5
+
 <img src="/assets/1000005530-modified.png" 
      alt="Rounded image" 
      align="right" 
      width="128" 
      height="128" />
      
-<div align="center">
-
-# Dreama Music - v1.0.5
+<div class="center">
 
 - **🤖 A Discord bot that plays music 24/7 non stop action!**
 - **✅ Uses lavalink for music streaming**
